@@ -1,0 +1,4 @@
+deap
+matplotlib
+numpy
+jupyter
